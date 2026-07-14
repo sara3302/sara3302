@@ -1,4 +1,4 @@
-Hi there, I'm Sara Joshi 👋
+Hi there, I'm Sara Joshi 
 
 BIT Student |  Backend Developer |  AI & Machine Learning Enthusiast
 
@@ -27,6 +27,6 @@ Tools: Git • Docker • Celery
 
   Connect with Me on: 
 
- LinkedIn:Add your LinkedIn profile*
- Email: Add your email address*
+ LinkedIn: (https://www.linkedin.com/in/sara-joshi-ab40882ab/)
+ Email: sarajoshi33@gmail.com
  Thanks for visiting my profile!
